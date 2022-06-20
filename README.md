@@ -1,0 +1,2 @@
+# Housing-Price-Prediction-using-Machine-Learning-
+The objective of this project is to develop the best machine learning model that can predict the housing price for a given dataset.  After careful consideration of all the available alternatives Linear Regression has been chosen to build a predictive model using Orange.A python code for learning curves is writtern for Error estimation to determine the effectiveness of our model . 
